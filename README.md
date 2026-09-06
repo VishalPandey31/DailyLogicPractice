@@ -33,16 +33,35 @@ DailyLogicPractice/
 
 | # | File | Description |
 |---|------|-------------|
-| 1 | `7.LargestElement.java` | Find the largest element in an array |
-| 2 | `8.SecLagestElement.java` | Find the second largest element |
-| 3 | `9.smalllestElement.java` | Find the smallest element |
-| 4 | `10.SecSmallestElement.java` | Find the second smallest element |
-| 5 | `12.CheckArrayIsSorted.java` | Check if array is sorted |
-| 6 | `13.RemoveDuplicateFromArray.java` | Remove duplicates from a sorted array |
-| 7 | `16.ReverseAnArray.java` | Reverse an array using extra list |
-| 8 | `20.SumOf2Numbers.java` | Two Sum — find pair with given target (brute force) |
-| 9 | `ReverseAnArray.java` | Reverse array (OOP approach with ArrayList) |
-| 10 | `ReeverseAnArrayBy2Pointers.java` | Reverse array using two-pointer recursion |
+| 1 | `1. ReverseAnArray.java` | Reverse array (OOP approach with ArrayList) |
+| 2 | `2. ReeverseAnArrayBy2Pointers.java` | Reverse array using two-pointer recursion |
+| 3 | `3. LargestElement.java` | Find the largest element in an array |
+| 4 | `4. SecLagestElement.java` | Find the second largest element |
+| 5 | `5. smalllestElement.java` | Find the smallest element |
+| 6 | `6. SecSmallestElement.java` | Find the second smallest element |
+| 7 | `7. CheckArrayIsSorted.java` | Check if array is sorted |
+| 8 | `8. RemoveDuplicateFromArray.java` | Remove duplicates from a sorted array |
+| 9 | `9. ReverseAnArray.java` | Reverse an array using extra list |
+| 10 | `10. SumOf2Numbers.java` | Two Sum — find pair with given target (brute force) |
+| 11 | `11. LeftRotateArray.java` | Left rotate array |
+| 12 | `12. RightRotatingArray.java` | Right rotate array |
+| 13 | `13. LeftRotating_D_Places.java` | Left rotate array by D places |
+| 14 | `14. RightRotating_D_place.java` | Right rotate array by D places |
+| 15 | `15. Move_Zero_At_The_END_OF_THE_ARRAY.java` | Move zero at the end of the array |
+| 16 | `16. Union2SortedArray.java` | Union of 2 sorted arrays |
+| 17 | `17. InterSectionOfAray.java` | Intersection of array |
+| 18 | `18. MissingNumberArray.java` | Missing number in array |
+| 19 | `19. MaximumConsecutiveOnes.java` | Maximum consecutive ones |
+| 20 | `20. FindTheNumberAppearsOnceOtherNumbersTwice.java` | Find the number that appears once |
+| 21 | `21. LongestSubArrayWithSumK.java` | Longest sub array with sum K |
+| 22 | `22. TwoSum.java` | Two Sum |
+| 23 | `23. TwoSum2Pointer.java` | Two Sum 2 Pointer |
+| 24 | `24. SortAnArray0,1,2.java` | Sort an array 0,1,2 |
+| 25 | `25. SortAnArray_DutchNationalFlagAlgorithm.java` | Sort an array (Dutch National Flag Algorithm) |
+| 26 | `26. SortAnArray0's1's2's.java` | Sort an array 0's 1's 2's |
+| 27 | `27. MajorityElement.java` | Majority element |
+| 28 | `28. MajorityElementByHashMap.java` | Majority element by HashMap |
+| 29 | `29. MaximumSubArray.java` | Maximum subarray |
 
 ---
 
@@ -111,13 +130,13 @@ DailyLogicPractice/
 
 | Concept | Count |
 |---------|-------|
-| Arrays | 10 |
+| Arrays | 29 |
 | Recursion | 10 |
 | Math | 9 |
 | Hashing | 3 |
 | Sorting | 3 |
 | Strings | 1 |
-| **Total** | **36** |
+| **Total** | **55** |
 
 ---
 
