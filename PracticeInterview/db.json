@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "name": "Rahul Sharma",
+    "email": "rahul@gmail.com",
+    "address": "Mumbai, Maharashtra"
+  },
+  {
+    "id": 2,
+    "name": "Amit Patel",
+    "email": "amit@gmail.com",
+    "address": "Ahmedabad, Gujarat"
+  },
+  {
+    "id": 3,
+    "name": "Priya Singh",
+    "email": "priya@gmail.com",
+    "address": "Delhi, India"
+  },
+  {
+    "id": 4,
+    "name": "Sneha Verma",
+    "email": "sneha@gmail.com",
+    "address": "Pune, Maharashtra"
+  },
+  {
+    "id": 5,
+    "name": "Arjun Mehta",
+    "email": "arjun@gmail.com",
+    "address": "Bangalore, Karnataka"
+  }
+]
