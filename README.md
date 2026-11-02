@@ -33,15 +33,15 @@ DailyLogicPractice/
 
 | # | File | Description |
 |---|------|-------------|
-| 1 | `1. ReverseAnArray.java` | Reverse array (OOP approach with ArrayList) |
-| 2 | `2. ReeverseAnArrayBy2Pointers.java` | Reverse array using two-pointer recursion |
-| 3 | `3. LargestElement.java` | Find the largest element in an array |
-| 4 | `4. SecLagestElement.java` | Find the second largest element |
-| 5 | `5. smalllestElement.java` | Find the smallest element |
-| 6 | `6. SecSmallestElement.java` | Find the second smallest element |
-| 7 | `7. CheckArrayIsSorted.java` | Check if array is sorted |
-| 8 | `8. RemoveDuplicateFromArray.java` | Remove duplicates from a sorted array |
-| 9 | `9. ReverseAnArray.java` | Reverse an array using extra list |
+| 1 | `01. ReverseAnArray.java` | Reverse array (OOP approach with ArrayList) |
+| 2 | `02. ReeverseAnArrayBy2Pointers.java` | Reverse array using two-pointer recursion |
+| 3 | `03. LargestElement.java` | Find the largest element in an array |
+| 4 | `04. SecLagestElement.java` | Find the second largest element |
+| 5 | `05. smalllestElement.java` | Find the smallest element |
+| 6 | `06. SecSmallestElement.java` | Find the second smallest element |
+| 7 | `07. CheckArrayIsSorted.java` | Check if array is sorted |
+| 8 | `08. RemoveDuplicateFromArray.java` | Remove duplicates from a sorted array |
+| 9 | `09. ReverseAnArray.java` | Reverse an array using extra list |
 | 10 | `10. SumOf2Numbers.java` | Two Sum — find pair with given target (brute force) |
 | 11 | `11. LeftRotateArray.java` | Left rotate array |
 | 12 | `12. RightRotatingArray.java` | Right rotate array |
@@ -62,6 +62,40 @@ DailyLogicPractice/
 | 27 | `27. MajorityElement.java` | Majority element |
 | 28 | `28. MajorityElementByHashMap.java` | Majority element by HashMap |
 | 29 | `29. MaximumSubArray.java` | Maximum subarray |
+| 30 | `30. CanPlaceFlower.java` | Can Place Flowers |
+| 31 | `31. StockBuySell.java` | Best Time to Buy and Sell Stock |
+| 32 | `32. ArrangeElementBySign.java` | Rearrange Array Elements by Sign |
+| 33 | `33. LeadersBySign.java` | Leaders in an Array |
+| 34 | `34. LongestCommonSubsequence.java` | Longest Consecutive Sequence |
+| 35 | `35. SetMatrixZero.java` | Set Matrix Zeroes |
+| 36 | `36. RotateMatrixBy90Degree.java` | Rotate Matrix by 90 Degrees |
+| 37 | `37. SpiralTraversalOfMatrix.java` | Spiral Traversal of Matrix |
+| 38 | `38. CountSubArraysEquals_K_.java` | Count Subarrays with Sum Equals K |
+| 39 | `39. PascalTriangle.java` | Pascal's Triangle |
+| 40 | `40. MajorityElement_3.java` | Majority Element (> n/3) |
+| 41 | `41. 3_SumProblem.java` | 3-Sum Problem |
+| 42 | `42. 4_SumProblem.java` | 4-Sum Problem |
+| 43 | `43. CountSubArrayWith_XoR_as_K.java` | Count Subarrays with XOR as K |
+| 44 | `44. Merge_Overlapping_Intervals.java` | Merge Overlapping Intervals |
+| 45 | `45. Merge_Sorted_Arrays_Without_Extra_Space.java` | Merge Sorted Arrays Without Extra Space |
+| 46 | `46. Find_the_Missing_and_Repeating_Number.java` | Find Missing and Repeating Number |
+| 47 | `47. Count_Inversions_in_an_Array.java` | Count Inversions in an Array (Approach 1) |
+| 48 | `48. Count_Inversions_in_an_Array_2.java` | Count Inversions in an Array (Approach 2) |
+| 49 | `49. Count_Inversions_in_an_Array_3.java` | Count Inversions in an Array (Approach 3) |
+| 50 | `50. Reverse_Pairs.java` | Reverse Pairs |
+| 51 | `51. Maximum_Product_Subarray.java` | Maximum Product Subarray |
+| 52 | `52. BinarySerach.java` | Binary Search |
+| 53 | `53. Implement_Lower_Bound.java` | Implement Lower Bound |
+| 54 | `54. Implement_Upper_Bound.java` | Implement Upper Bound |
+| 55 | `55. First_and_Last_Occurrences_in_Array.java` | First and Last Occurrences in Array |
+| 56 | `56. Search_Element_in_Rotated_Sorted.java` | Search in Rotated Sorted Array |
+| 57 | `57. Search_Element_in_Rotated_Sorted_Array_2.java` | Search in Rotated Sorted Array 2 |
+| 58 | `58. Minimum_in_Rotated_Sorted_Array.java` | Minimum in Rotated Sorted Array |
+| 59 | `59. Find_out_how_many_times_array_has_been_rotated.java` | Find out how many times array has been rotated |
+| 60 | `60. Single_Element_in_Sorted_Array.java` | Single Element in Sorted Array |
+| 61 | `61. Find_Peak_Element.java` | Find Peak Element |
+| 62 | `62. Finding_Sqrt_of_a_number_using_Binary_Search.java` | Sqrt of a number using Binary Search |
+| 63 | `63. Find_the_Nth_root_of_an_Integer.java` | Nth root of an Integer |
 
 ---
 
@@ -130,13 +164,13 @@ DailyLogicPractice/
 
 | Concept | Count |
 |---------|-------|
-| Arrays | 29 |
+| Arrays | 63 |
 | Recursion | 10 |
 | Math | 9 |
 | Hashing | 3 |
 | Sorting | 3 |
 | Strings | 1 |
-| **Total** | **55** |
+| **Total** | **89** |
 
 ---
 
