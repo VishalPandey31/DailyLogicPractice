@@ -27,9 +27,6 @@ class A{
                        count ++;
                     }
                 }
-
-
-
             }
 
             if(count<=(n*m)/2){
