@@ -28,7 +28,7 @@ class A{
 
             class Traversal{
 
-                static void postorder (Node root){
+                static void preorder (Node root){
 
                     if(root==null){
 
@@ -36,8 +36,8 @@ class A{
                     }
              
               System.out.println(root.data);
-              postorder(root.left);
-            postorder(root.right);
+              preorder(root.left);
+            preorder(root.right);
 
 
 
@@ -45,7 +45,7 @@ class A{
                 
             }
             Traversal val=new Traversal();
-            val.postorder(root);
+            val.preorder(root);
     }
 
 }
